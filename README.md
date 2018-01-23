@@ -1,10 +1,10 @@
 # Starter Web Repo | First Level Heading
-
-This repository is for showing how Git and GitHub work
+This is a simple website project.
 
 ## Purpose | Second Level Heading
 
 ## Deploy
+It's easy to deploy and use.
 
 ## Introduction | Second Level Heading
 
