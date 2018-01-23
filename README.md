@@ -9,4 +9,7 @@ It's easy to deploy and use.
 ## Introduction | Second Level Heading
 Just use it and don't ask any questions!
 
+##Purpose section
+Demonstrate power of git
+
 Sample website with plenty of files for demos
