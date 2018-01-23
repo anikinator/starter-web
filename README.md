@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose | Second Level Heading
 
+## Deploy
+
 ## Introduction | Second Level Heading
 
 Sample website with plenty of files for demos
