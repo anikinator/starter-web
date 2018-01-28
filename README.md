@@ -15,6 +15,10 @@ Just use it and don't ask any questions!
 
 Demonstrate power of git
 
+## How to contribute
+
+Please fork this repository and then issue pull requests for review. 
+
 ###Sample section
 
 Important thing to remember!
