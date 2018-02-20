@@ -10,6 +10,7 @@ It's easy to deploy and use.
 ## Introduction | Second Level Heading
 
 Just use it and don't ask any questions!
+Some additional text.
 
 ##Purpose section
 
