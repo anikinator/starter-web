@@ -28,3 +28,4 @@ Sample website with plenty of files for demos
 ### Copyright
 
 Seriouse copyright
+All rights reserved
